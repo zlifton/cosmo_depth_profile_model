@@ -10,6 +10,7 @@ In order to calculate slip rates on faults we use the age and magnitude of fault
 	
 # Modeling approach
 In this study, I compare the results of my models with real soil profile data from three surfaces: 1) the Basento fluvial terrace in Italy, 2) the Sinni fluvial terrace in Italy, and 3) the Cucumongo Canyon alluvial fan in Death Valley, USA.  My goal is to understand the behavior of 10Be concentrations with depth in order to explain the depth profiles we measure in the field (Fig. 1).
+
 I created a simple model to simulate 10Be concentration (atoms/gram) as a function of depth and time.  The fundamental equation was first derived by Lal (1991):
 
 > Eq. 1
